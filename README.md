@@ -1,12 +1,17 @@
 # Hi, I'm Juan Diego 👋
-I am a software engineer passionate about software development.
-
 Making every line count.
 
-## You can find me on
-![Twitter URL](https://img.shields.io/twitter/url?label=.g0d13&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fg0d13k3l)
-
 ## Languages and Tools
+
 <p align="center">
-  <a href="https://vuejs.org/"><img src='./icons/vue.svg?sanitize=true' alt="Vue" title="Vue"height='55px'/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src='https://github.com/g0d13/g0d13/blob/master/icons/js.svg?sanitize=true' alt="JS" title="JS" height='50px'/></a>　
+
+  <a href="https://angular.io"><img src='https://github.com/g0d13/g0d13/blob/master/icons/angular.svg?sanitize=true' alt="Angular" title="Angular" height='50px'/></a>
+  　
+  <a href="https://reactjs.org/"><img src='https://github.com/g0d13/g0d13/blob/master/icons/react.svg?sanitize=true' alt="React" title="React" height='50px'/></a>
+
+  <a href="https://vuejs.org/"><img src='https://github.com/g0d13/g0d13/blob/master/icons/vue.svg?sanitize=true' alt="Vue" title="Vue" height='50px'/></a>
+
 </p>
+
+
