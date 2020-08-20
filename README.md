@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Making every line count.</h3>
-  g0d13
+  <a href="godie.link">g0d13</a>
   <h4>Languages and Tools</h4>
 </div>
 
@@ -10,5 +10,3 @@
   <a href="https://reactjs.org/"><img src='https://github.com/g0d13/g0d13/blob/master/icons/react.svg?sanitize=true' alt="React" title="React" height='50px'/></a>
   <a href="https://vuejs.org/"><img src='https://github.com/g0d13/g0d13/blob/master/icons/vue.svg?sanitize=true' alt="Vue" title="Vue" height='50px'/></a>
 </div>
-
-[Mi blog](godie.live)
