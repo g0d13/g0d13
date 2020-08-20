@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Making every line count.</h3>
-  <a href="godie.link">g0d13</a>
+  <a href="http://godie.live/">g0d13</a>
   <h4>Languages and Tools</h4>
 </div>
 
