@@ -2,7 +2,7 @@
 <p><em>Software Enginner </em> </p>
 
 [![Twitter: g0d13](https://img.shields.io/twitter/follow/_g0d13_?style=social)](https://twitter.com/_g0d13_)
-[![Linkedin: g0d13](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g0d13/)](https://www.linkedin.com/in/g0d13/)
+[![Linkedin: g0d13](https://img.shields.io/badge/-g0d13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g0d13/)](https://www.linkedin.com/in/g0d13/)
 [![GitHub g0d13](https://img.shields.io/github/followers/g0d13?label=follow&style=social)](https://github.com/g0d13)
 
 ### A little more about me...
